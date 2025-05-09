@@ -17,7 +17,7 @@ public class Numero{
         int numero4 = scanner.nextInt();
          
          int suma=(numero+numero2+numero3+numero4);
-        System.out.println("Tu nombre "+ suma);
+        System.out.println("el total de la suma "+ suma);
         
     }
 }
